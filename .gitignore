@@ -1,0 +1,3 @@
+# Don't tract content of these folders
+obj/
+bin/
