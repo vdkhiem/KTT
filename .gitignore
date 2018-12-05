@@ -1,3 +1,5 @@
-# Don't tract content of these folders
+# Don't track content of these folders
 obj/
 bin/
+
+noode_modules/
